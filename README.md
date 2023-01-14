@@ -12,27 +12,26 @@ Preview of the Android App:
 
 -> Login Page:
 
-
-![alt text](https://github.com/be-soumaya/Orders_Android_Spring/tree/main/Orders_frontend/app/src/main/res/drawable/login.jpg?raw=true)
+<img src="https://github.com/be-soumaya/Orders_Android_Spring/blob/main/Orders_frontend/login.png" width="250" height="500" />
 
 
 -> List of Orders:
 
 
-![alt text](https://github.com/be-soumaya/Orders_Android_Spring/tree/main/Orders_frontend/app/src/main/res/drawable/list.jpg?raw=true)
+<img src="https://github.com/be-soumaya/Orders_Android_Spring/blob/main/Orders_frontend/list.png" width="250" height="500" />
 
 
 -> Delete an Order:
 
 
-![alt text](https://github.com/be-soumaya/Orders_Android_Spring/tree/main/Orders_frontend/app/src/main/res/drawable/delete.jpg?raw=true)
+<img src="https://github.com/be-soumaya/Orders_Android_Spring/blob/main/Orders_frontend/delete.png" width="250" height="500" />
 
 
 
 -> Add a new Order:
 
 
-![alt text](https://github.com/be-soumaya/Orders_Android_Spring/tree/main/Orders_frontend/app/src/main/res/drawable/add.jpg?raw=true)
+<img src="https://github.com/be-soumaya/Orders_Android_Spring/blob/main/Orders_frontend/add.png" width="250" height="500" />
 
 
 
